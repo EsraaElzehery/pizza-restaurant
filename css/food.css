@@ -188,6 +188,7 @@ main .section {
     color: #9a9a9a;
 }
 
+
 .section .container .about-content {
     display: flex;
     justify-content: space-between;
@@ -219,6 +220,14 @@ main .section {
     line-height: 1.6;
     margin-right: 9rem;
 }
+@media (max-width:678px){
+    .section .about-content p{
+    
+        text-align: center;
+        width: 90%;
+    }
+}
+
 @media (max-width:678px){
     .section .about-content p{
         margin-right: 5rem;
