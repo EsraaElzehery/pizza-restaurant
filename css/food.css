@@ -223,7 +223,7 @@ main .section {
 @media (max-width:678px){
     .section .about-content p{
         text-align: center;
-        width: 80%;
+        width: 100%;
     }
 }
 
