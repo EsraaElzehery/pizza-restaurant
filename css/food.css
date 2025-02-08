@@ -113,8 +113,8 @@ text-align: center;
         display: flex;
         align-items: center;
         justify-items: center;
-    font-size: 12px;
-    padding: 6px 12px;
+    font-size: 15px;
+    padding: 6px 7px;
     }
 }
 
@@ -198,8 +198,8 @@ main .section {
     display: flex;
     flex-direction: column;
     padding: 0 5px 5px 5px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 18px;
+    
     }
 }
 
